@@ -381,6 +381,18 @@ app.get('/api/stats', async (req, res) => {
   });
 });
 
+// Servir archivos estáticos del frontend en producción (carpeta public)
+const staticPath = path.join(__dirname, 'public');
+app.use(express.static(staticPath));
+
+// Fallback para ruteo SPA: cualquier otra ruta devuelve index.html
+app.get('*', (req, res) => {
+  if (req.path.startsWith('/api')) {
+    return res.status(404).json({ error: 'Ruta de API no encontrada' });
+  }
+  res.sendFile(path.join(staticPath, 'index.html'));
+});
+
 // Arrancar servidor
 app.listen(PORT, () => {
   console.log(`Servidor de Prode corriendo en http://localhost:${PORT}`);
