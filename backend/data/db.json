@@ -1,0 +1,2000 @@
+{
+  "matches": [
+    {
+      "id": "1",
+      "date": "2026-06-11",
+      "time": "18:00",
+      "homeTeam": "México",
+      "awayTeam": "Sudáfrica",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo A"
+    },
+    {
+      "id": "2",
+      "date": "2026-06-11",
+      "time": "21:00",
+      "homeTeam": "República Checa",
+      "awayTeam": "Corea del Sur",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "played",
+      "group": "Grupo A"
+    },
+    {
+      "id": "3",
+      "date": "2026-06-12",
+      "time": "15:00",
+      "homeTeam": "Canadá",
+      "awayTeam": "Bosnia y Herzegovina",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo B"
+    },
+    {
+      "id": "4",
+      "date": "2026-06-13",
+      "time": "15:00",
+      "homeTeam": "Qatar",
+      "awayTeam": "Suiza",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo B"
+    },
+    {
+      "id": "5",
+      "date": "2026-06-13",
+      "time": "18:00",
+      "homeTeam": "Brasil",
+      "awayTeam": "Marruecos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo C"
+    },
+    {
+      "id": "6",
+      "date": "2026-06-13",
+      "time": "21:00",
+      "homeTeam": "Estados Unidos",
+      "awayTeam": "Paraguay",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo D"
+    },
+    {
+      "id": "7",
+      "date": "2026-06-14",
+      "time": "15:00",
+      "homeTeam": "Haití",
+      "awayTeam": "Escocia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo C"
+    },
+    {
+      "id": "8",
+      "date": "2026-06-14",
+      "time": "18:00",
+      "homeTeam": "Australia",
+      "awayTeam": "Turquía",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo D"
+    },
+    {
+      "id": "9",
+      "date": "2026-06-14",
+      "time": "21:00",
+      "homeTeam": "Alemania",
+      "awayTeam": "Curaçao",
+      "homeScore": 7,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo E"
+    },
+    {
+      "id": "10",
+      "date": "2026-06-14",
+      "time": "21:00",
+      "homeTeam": "Países Bajos",
+      "awayTeam": "Japón",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "played",
+      "group": "Grupo F"
+    },
+    {
+      "id": "11",
+      "date": "2026-06-15",
+      "time": "15:00",
+      "homeTeam": "República Checa",
+      "awayTeam": "Sudáfrica",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo A"
+    },
+    {
+      "id": "12",
+      "date": "2026-06-15",
+      "time": "18:00",
+      "homeTeam": "México",
+      "awayTeam": "Corea del Sur",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo A"
+    },
+    {
+      "id": "13",
+      "date": "2026-06-15",
+      "time": "21:00",
+      "homeTeam": "Costa de Marfil",
+      "awayTeam": "Ecuador",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo E"
+    },
+    {
+      "id": "14",
+      "date": "2026-06-15",
+      "time": "21:00",
+      "homeTeam": "Suecia",
+      "awayTeam": "Túnez",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo F"
+    },
+    {
+      "id": "15",
+      "date": "2026-06-18",
+      "time": "18:00",
+      "homeTeam": "Canadá",
+      "awayTeam": "Qatar",
+      "homeScore": 6,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo B"
+    },
+    {
+      "id": "16",
+      "date": "2026-06-18",
+      "time": "21:00",
+      "homeTeam": "Suiza",
+      "awayTeam": "Bosnia y Herzegovina",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo B"
+    },
+    {
+      "id": "17",
+      "date": "2026-06-19",
+      "time": "15:00",
+      "homeTeam": "Brasil",
+      "awayTeam": "Haití",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo C"
+    },
+    {
+      "id": "18",
+      "date": "2026-06-19",
+      "time": "18:00",
+      "homeTeam": "Escocia",
+      "awayTeam": "Marruecos",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo C"
+    },
+    {
+      "id": "19",
+      "date": "2026-06-19",
+      "time": "21:00",
+      "homeTeam": "Estados Unidos",
+      "awayTeam": "Australia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo D"
+    },
+    {
+      "id": "20",
+      "date": "2026-06-20",
+      "time": "15:00",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Turquía",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo D"
+    },
+    {
+      "id": "21",
+      "date": "2026-06-20",
+      "time": "18:00",
+      "homeTeam": "Alemania",
+      "awayTeam": "Costa de Marfil",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo E"
+    },
+    {
+      "id": "22",
+      "date": "2026-06-20",
+      "time": "18:00",
+      "homeTeam": "Ecuador",
+      "awayTeam": "Curaçao",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo E"
+    },
+    {
+      "id": "23",
+      "date": "2026-06-20",
+      "time": "21:00",
+      "homeTeam": "Países Bajos",
+      "awayTeam": "Suecia",
+      "homeScore": 5,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo F"
+    },
+    {
+      "id": "24",
+      "date": "2026-06-20",
+      "time": "21:00",
+      "homeTeam": "Túnez",
+      "awayTeam": "Japón",
+      "homeScore": 0,
+      "awayScore": 4,
+      "status": "played",
+      "group": "Grupo F"
+    },
+    {
+      "id": "25",
+      "date": "2026-06-24",
+      "time": "18:00",
+      "homeTeam": "México",
+      "awayTeam": "República Checa",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo A"
+    },
+    {
+      "id": "26",
+      "date": "2026-06-24",
+      "time": "18:00",
+      "homeTeam": "Sudáfrica",
+      "awayTeam": "Corea del Sur",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo A"
+    },
+    {
+      "id": "27",
+      "date": "2026-06-24",
+      "time": "21:00",
+      "homeTeam": "Suiza",
+      "awayTeam": "Canadá",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo B"
+    },
+    {
+      "id": "28",
+      "date": "2026-06-24",
+      "time": "21:00",
+      "homeTeam": "Bosnia y Herzegovina",
+      "awayTeam": "Qatar",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "played",
+      "group": "Grupo B"
+    },
+    {
+      "id": "29",
+      "date": "2026-06-24",
+      "time": "15:00",
+      "homeTeam": "Brasil",
+      "awayTeam": "Escocia",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "played",
+      "group": "Grupo C"
+    },
+    {
+      "id": "30",
+      "date": "2026-06-24",
+      "time": "15:00",
+      "homeTeam": "Marruecos",
+      "awayTeam": "Haití",
+      "homeScore": 4,
+      "awayScore": 2,
+      "status": "played",
+      "group": "Grupo C"
+    },
+    {
+      "id": "31",
+      "date": "2026-06-25",
+      "time": "19:00",
+      "homeTeam": "Paraguay",
+      "awayTeam": "Australia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "pending",
+      "group": "Grupo D"
+    },
+    {
+      "id": "32",
+      "date": "2026-06-25",
+      "time": "19:00",
+      "homeTeam": "Turquía",
+      "awayTeam": "Estados Unidos",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "pending",
+      "group": "Grupo D"
+    },
+    {
+      "id": "33",
+      "date": "2026-06-25",
+      "time": "21:00",
+      "homeTeam": "Ecuador",
+      "awayTeam": "Alemania",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "pending",
+      "group": "Grupo E"
+    },
+    {
+      "id": "34",
+      "date": "2026-06-25",
+      "time": "21:00",
+      "homeTeam": "Costa de Marfil",
+      "awayTeam": "Curaçao",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "pending",
+      "group": "Grupo E"
+    },
+    {
+      "id": "35",
+      "date": "2026-06-25",
+      "time": "16:00",
+      "homeTeam": "Japón",
+      "awayTeam": "Suecia",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "pending",
+      "group": "Grupo F"
+    },
+    {
+      "id": "36",
+      "date": "2026-06-25",
+      "time": "16:00",
+      "homeTeam": "Túnez",
+      "awayTeam": "Países Bajos",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "pending",
+      "group": "Grupo F"
+    }
+  ],
+  "rooms": {
+    "mundial-demo": {
+      "id": "mundial-demo",
+      "name": "Mundial 2026 - Demo Amigos",
+      "adminId": "user-messi",
+      "participants": [
+        {
+          "id": "user-messi",
+          "name": "Lionel M.",
+          "predictions": {
+            "1": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "2": {
+              "homeScore": 0,
+              "awayScore": 1
+            },
+            "3": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "4": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "5": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "6": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "7": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "8": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "9": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "10": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "11": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "12": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "13": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "14": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "15": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "16": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "17": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "18": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "19": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "20": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "21": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "22": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "23": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "24": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "25": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "26": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "27": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "28": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "29": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "30": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "31": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "32": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "33": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "34": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "35": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "36": {
+              "homeScore": 0,
+              "awayScore": 2
+            }
+          }
+        },
+        {
+          "id": "user-diego",
+          "name": "Diego M.",
+          "predictions": {
+            "1": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "2": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "3": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "4": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "5": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "6": {
+              "homeScore": 4,
+              "awayScore": 1
+            },
+            "7": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "8": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "9": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "10": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "11": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "12": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "13": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "14": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "15": {
+              "homeScore": 4,
+              "awayScore": 1
+            },
+            "16": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "17": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "18": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "19": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "20": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "21": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "22": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "23": {
+              "homeScore": 4,
+              "awayScore": 1
+            },
+            "24": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "25": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "26": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "27": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "28": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "29": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "30": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "31": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "32": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "33": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "34": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "35": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "36": {
+              "homeScore": 1,
+              "awayScore": 3
+            }
+          }
+        },
+        {
+          "id": "user-zizou",
+          "name": "Zinedine Z.",
+          "predictions": {
+            "1": {
+              "homeScore": 0,
+              "awayScore": 1
+            },
+            "2": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "3": {
+              "homeScore": 0,
+              "awayScore": 1
+            },
+            "4": {
+              "homeScore": 0,
+              "awayScore": 1
+            },
+            "5": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "6": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "7": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "8": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "9": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "10": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "11": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "12": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "13": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "14": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "15": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "16": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "17": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "18": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "19": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "20": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "21": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "22": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "23": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "24": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "25": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "26": {
+              "homeScore": 0,
+              "awayScore": 1
+            },
+            "27": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "28": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "29": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "30": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "31": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "32": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "33": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "34": {
+              "homeScore": 4,
+              "awayScore": 1
+            },
+            "35": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "36": {
+              "homeScore": 0,
+              "awayScore": 3
+            }
+          }
+        }
+      ]
+    },
+    "v8vntji": {
+      "id": "v8vntji",
+      "name": "prode madryn",
+      "adminId": "user-0be2oyi",
+      "participants": [
+        {
+          "id": "user-0be2oyi",
+          "name": "Emma",
+          "predictions": {}
+        },
+        {
+          "id": "sim-0-zb5a",
+          "name": "Cristiano R.",
+          "predictions": {
+            "1": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "2": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "3": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "4": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "5": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "6": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "7": {
+              "homeScore": 0,
+              "awayScore": 1
+            },
+            "8": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "9": {
+              "homeScore": 1,
+              "awayScore": 8
+            },
+            "10": {
+              "homeScore": 4,
+              "awayScore": 2
+            },
+            "11": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "12": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "13": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "14": {
+              "homeScore": 6,
+              "awayScore": 1
+            },
+            "15": {
+              "homeScore": 8,
+              "awayScore": 0
+            },
+            "16": {
+              "homeScore": 5,
+              "awayScore": 1
+            },
+            "17": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "18": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "19": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "20": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "21": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "22": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "23": {
+              "homeScore": 5,
+              "awayScore": 1
+            },
+            "24": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "25": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "26": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "27": {
+              "homeScore": 4,
+              "awayScore": 1
+            },
+            "28": {
+              "homeScore": 1,
+              "awayScore": 4
+            },
+            "29": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "30": {
+              "homeScore": 2,
+              "awayScore": 5
+            },
+            "31": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "32": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "33": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "34": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "35": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "36": {
+              "homeScore": 0,
+              "awayScore": 2
+            }
+          }
+        },
+        {
+          "id": "sim-1-gezd",
+          "name": "Neymar Jr.",
+          "predictions": {
+            "1": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "2": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "3": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "4": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "5": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "6": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "7": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "8": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "9": {
+              "homeScore": 7,
+              "awayScore": 1
+            },
+            "10": {
+              "homeScore": 3,
+              "awayScore": 3
+            },
+            "11": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "12": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "13": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "14": {
+              "homeScore": 5,
+              "awayScore": 1
+            },
+            "15": {
+              "homeScore": 0,
+              "awayScore": 7
+            },
+            "16": {
+              "homeScore": 6,
+              "awayScore": 1
+            },
+            "17": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "18": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "19": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "20": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "21": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "22": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "23": {
+              "homeScore": 1,
+              "awayScore": 6
+            },
+            "24": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "25": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "26": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "27": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "28": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "29": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "30": {
+              "homeScore": 2,
+              "awayScore": 5
+            },
+            "31": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "32": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "33": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "34": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "35": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "36": {
+              "homeScore": 0,
+              "awayScore": 0
+            }
+          }
+        },
+        {
+          "id": "sim-2-7ajx",
+          "name": "Kylian M.",
+          "predictions": {
+            "1": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "2": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "3": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "4": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "5": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "6": {
+              "homeScore": 4,
+              "awayScore": 1
+            },
+            "7": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "8": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "9": {
+              "homeScore": 1,
+              "awayScore": 8
+            },
+            "10": {
+              "homeScore": 4,
+              "awayScore": 2
+            },
+            "11": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "12": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "13": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "14": {
+              "homeScore": 1,
+              "awayScore": 6
+            },
+            "15": {
+              "homeScore": 0,
+              "awayScore": 7
+            },
+            "16": {
+              "homeScore": 5,
+              "awayScore": 1
+            },
+            "17": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "18": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "19": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "20": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "21": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "22": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "23": {
+              "homeScore": 6,
+              "awayScore": 1
+            },
+            "24": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "25": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "26": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "27": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "28": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "29": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "30": {
+              "homeScore": 2,
+              "awayScore": 5
+            },
+            "31": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "32": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "33": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "34": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "35": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "36": {
+              "homeScore": 1,
+              "awayScore": 0
+            }
+          }
+        },
+        {
+          "id": "sim-3-99hw",
+          "name": "Erling H.",
+          "predictions": {
+            "1": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "2": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "3": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "4": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "5": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "6": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "7": {
+              "homeScore": 0,
+              "awayScore": 1
+            },
+            "8": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "9": {
+              "homeScore": 1,
+              "awayScore": 8
+            },
+            "10": {
+              "homeScore": 4,
+              "awayScore": 2
+            },
+            "11": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "12": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "13": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "14": {
+              "homeScore": 1,
+              "awayScore": 6
+            },
+            "15": {
+              "homeScore": 0,
+              "awayScore": 7
+            },
+            "16": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "17": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "18": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "19": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "20": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "21": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "22": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "23": {
+              "homeScore": 5,
+              "awayScore": 1
+            },
+            "24": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "25": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "26": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "27": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "28": {
+              "homeScore": 1,
+              "awayScore": 4
+            },
+            "29": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "30": {
+              "homeScore": 4,
+              "awayScore": 2
+            },
+            "31": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "32": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "33": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "34": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "35": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "36": {
+              "homeScore": 2,
+              "awayScore": 2
+            }
+          }
+        },
+        {
+          "id": "sim-4-bc1x",
+          "name": "Luka M.",
+          "predictions": {
+            "1": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "2": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "3": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "4": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "5": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "6": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "7": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "8": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "9": {
+              "homeScore": 9,
+              "awayScore": 1
+            },
+            "10": {
+              "homeScore": 3,
+              "awayScore": 3
+            },
+            "11": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "12": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "13": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "14": {
+              "homeScore": 5,
+              "awayScore": 1
+            },
+            "15": {
+              "homeScore": 0,
+              "awayScore": 7
+            },
+            "16": {
+              "homeScore": 4,
+              "awayScore": 1
+            },
+            "17": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "18": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "19": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "20": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "21": {
+              "homeScore": 4,
+              "awayScore": 1
+            },
+            "22": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "23": {
+              "homeScore": 6,
+              "awayScore": 1
+            },
+            "24": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "25": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "26": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "27": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "28": {
+              "homeScore": 1,
+              "awayScore": 4
+            },
+            "29": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "30": {
+              "homeScore": 2,
+              "awayScore": 5
+            },
+            "31": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "32": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "33": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "34": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "35": {
+              "homeScore": 2,
+              "awayScore": 1
+            },
+            "36": {
+              "homeScore": 2,
+              "awayScore": 1
+            }
+          }
+        },
+        {
+          "id": "sim-5-6zf7",
+          "name": "Harry K.",
+          "predictions": {
+            "1": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "2": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "3": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "4": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "5": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "6": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "7": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "8": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "9": {
+              "homeScore": 1,
+              "awayScore": 8
+            },
+            "10": {
+              "homeScore": 3,
+              "awayScore": 3
+            },
+            "11": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "12": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "13": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "14": {
+              "homeScore": 1,
+              "awayScore": 6
+            },
+            "15": {
+              "homeScore": 0,
+              "awayScore": 7
+            },
+            "16": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "17": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "18": {
+              "homeScore": 0,
+              "awayScore": 1
+            },
+            "19": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "20": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "21": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "22": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "23": {
+              "homeScore": 1,
+              "awayScore": 6
+            },
+            "24": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "25": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "26": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "27": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "28": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "29": {
+              "homeScore": 3,
+              "awayScore": 0
+            },
+            "30": {
+              "homeScore": 2,
+              "awayScore": 5
+            },
+            "31": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "32": {
+              "homeScore": 1,
+              "awayScore": 1
+            },
+            "33": {
+              "homeScore": 2,
+              "awayScore": 2
+            },
+            "34": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "35": {
+              "homeScore": 1,
+              "awayScore": 0
+            },
+            "36": {
+              "homeScore": 2,
+              "awayScore": 0
+            }
+          }
+        },
+        {
+          "id": "sim-6-k25b",
+          "name": "Robert L.",
+          "predictions": {
+            "1": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "2": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "3": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "4": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "5": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "6": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "7": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "8": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "9": {
+              "homeScore": 9,
+              "awayScore": 1
+            },
+            "10": {
+              "homeScore": 4,
+              "awayScore": 2
+            },
+            "11": {
+              "homeScore": 3,
+              "awayScore": 1
+            },
+            "12": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "13": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "14": {
+              "homeScore": 1,
+              "awayScore": 6
+            },
+            "15": {
+              "homeScore": 8,
+              "awayScore": 0
+            },
+            "16": {
+              "homeScore": 1,
+              "awayScore": 5
+            },
+            "17": {
+              "homeScore": 4,
+              "awayScore": 0
+            },
+            "18": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "19": {
+              "homeScore": 0,
+              "awayScore": 3
+            },
+            "20": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "21": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "22": {
+              "homeScore": 2,
+              "awayScore": 0
+            },
+            "23": {
+              "homeScore": 1,
+              "awayScore": 6
+            },
+            "24": {
+              "homeScore": 5,
+              "awayScore": 0
+            },
+            "25": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "26": {
+              "homeScore": 0,
+              "awayScore": 2
+            },
+            "27": {
+              "homeScore": 1,
+              "awayScore": 3
+            },
+            "28": {
+              "homeScore": 1,
+              "awayScore": 4
+            },
+            "29": {
+              "homeScore": 0,
+              "awayScore": 4
+            },
+            "30": {
+              "homeScore": 2,
+              "awayScore": 5
+            },
+            "31": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "32": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "33": {
+              "homeScore": 0,
+              "awayScore": 0
+            },
+            "34": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "35": {
+              "homeScore": 1,
+              "awayScore": 2
+            },
+            "36": {
+              "homeScore": 2,
+              "awayScore": 0
+            }
+          }
+        }
+      ]
+    }
+  },
+  "goalscorers": [
+    {
+      "name": "Deniz Undav",
+      "team": "Alemania",
+      "goals": 4
+    },
+    {
+      "name": "Cody Gakpo",
+      "team": "Países Bajos",
+      "goals": 3
+    },
+    {
+      "name": "Ayase Ueda",
+      "team": "Japón",
+      "goals": 3
+    },
+    {
+      "name": "Julián Quiñones",
+      "team": "México",
+      "goals": 2
+    },
+    {
+      "name": "Vinícius Júnior",
+      "team": "Brasil",
+      "goals": 2
+    },
+    {
+      "name": "Brian Brobbey",
+      "team": "Países Bajos",
+      "goals": 2
+    },
+    {
+      "name": "Mateo Chávez",
+      "team": "México",
+      "goals": 1
+    },
+    {
+      "name": "Ismail Saibari",
+      "team": "Marruecos",
+      "goals": 1
+    }
+  ],
+  "cards": [
+    {
+      "team": "Sudáfrica",
+      "yellow": 8,
+      "red": 2
+    },
+    {
+      "team": "México",
+      "yellow": 5,
+      "red": 1
+    },
+    {
+      "team": "República Checa",
+      "yellow": 6,
+      "red": 1
+    },
+    {
+      "team": "Turquía",
+      "yellow": 7,
+      "red": 0
+    },
+    {
+      "team": "Estados Unidos",
+      "yellow": 4,
+      "red": 0
+    },
+    {
+      "team": "Alemania",
+      "yellow": 3,
+      "red": 0
+    },
+    {
+      "team": "Brasil",
+      "yellow": 2,
+      "red": 0
+    }
+  ]
+}
